@@ -1,0 +1,147 @@
+2021-01-24 01:29:24 [7] INFO  jwd.thread.entity.Stock -Truck 7 occupies Terminal 1
+2021-01-24 01:29:24 [5] INFO  jwd.thread.entity.Stock -Truck 5 occupies Terminal 2
+2021-01-24 01:29:24 [7] INFO  jwd.thread.entity.Truck -Truck 7 starts unloading
+2021-01-24 01:29:24 [5] INFO  jwd.thread.entity.Truck -Truck 5 starts unloading
+2021-01-24 01:29:27 [5] INFO  jwd.thread.entity.Truck -Truck 5 finished unloading
+2021-01-24 01:29:27 [7] INFO  jwd.thread.entity.Truck -Truck 7 finished unloading
+2021-01-24 01:29:27 [5] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:29:27 [7] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:29:28 [2] INFO  jwd.thread.entity.Stock -Truck 2 occupies Terminal 1
+2021-01-24 01:29:28 [9] INFO  jwd.thread.entity.Stock -Truck 9 occupies Terminal 2
+2021-01-24 01:29:28 [2] INFO  jwd.thread.entity.Truck -Truck 2 starts unloading
+2021-01-24 01:29:28 [9] INFO  jwd.thread.entity.Truck -Truck 9 starts unloading
+2021-01-24 01:29:31 [2] INFO  jwd.thread.entity.Truck -Truck 2 finished unloading
+2021-01-24 01:29:31 [9] INFO  jwd.thread.entity.Truck -Truck 9 finished unloading
+2021-01-24 01:29:31 [2] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:29:31 [9] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:29:32 [8] INFO  jwd.thread.entity.Stock -Truck 8 occupies Terminal 1
+2021-01-24 01:29:32 [1] INFO  jwd.thread.entity.Stock -Truck 1 occupies Terminal 2
+2021-01-24 01:29:32 [8] INFO  jwd.thread.entity.Truck -Truck 8 starts unloading
+2021-01-24 01:29:32 [1] INFO  jwd.thread.entity.Truck -Truck 1 starts unloading
+2021-01-24 01:29:35 [8] INFO  jwd.thread.entity.Truck -Truck 8 finished unloading
+2021-01-24 01:29:35 [1] INFO  jwd.thread.entity.Truck -Truck 1 finished unloading
+2021-01-24 01:29:35 [8] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:29:35 [1] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:29:36 [4] INFO  jwd.thread.entity.Stock -Truck 4 occupies Terminal 1
+2021-01-24 01:29:36 [6] INFO  jwd.thread.entity.Stock -Truck 6 occupies Terminal 2
+2021-01-24 01:29:36 [4] INFO  jwd.thread.entity.Truck -Truck 4 starts unloading
+2021-01-24 01:29:36 [6] INFO  jwd.thread.entity.Truck -Truck 6 starts unloading
+2021-01-24 01:29:39 [4] INFO  jwd.thread.entity.Truck -Truck 4 finished unloading
+2021-01-24 01:29:39 [6] INFO  jwd.thread.entity.Truck -Truck 6 finished unloading
+2021-01-24 01:29:39 [4] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:29:39 [6] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:29:40 [3] INFO  jwd.thread.entity.Stock -Truck 3 occupies Terminal 1
+2021-01-24 01:29:40 [3] INFO  jwd.thread.entity.Truck -Truck 3 starts unloading
+2021-01-24 01:29:43 [3] INFO  jwd.thread.entity.Truck -Truck 3 finished unloading
+2021-01-24 01:29:43 [3] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:33:29 [main] ERROR jwd.thread.reader.TextReader -invalid path input
+2021-01-24 01:33:29 [2] INFO  jwd.thread.entity.Stock -Truck 2 occupies Terminal 2
+2021-01-24 01:33:29 [8] INFO  jwd.thread.entity.Stock -Truck 8 occupies Terminal 1
+2021-01-24 01:33:29 [2] INFO  jwd.thread.entity.Truck -Truck 2 starts unloading
+2021-01-24 01:33:29 [8] INFO  jwd.thread.entity.Truck -Truck 8 starts unloading
+2021-01-24 01:33:32 [2] INFO  jwd.thread.entity.Truck -Truck 2 finished unloading
+2021-01-24 01:33:32 [8] INFO  jwd.thread.entity.Truck -Truck 8 finished unloading
+2021-01-24 01:33:32 [8] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:33:32 [2] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:33:33 [4] INFO  jwd.thread.entity.Stock -Truck 4 occupies Terminal 1
+2021-01-24 01:33:33 [3] INFO  jwd.thread.entity.Stock -Truck 3 occupies Terminal 2
+2021-01-24 01:33:33 [4] INFO  jwd.thread.entity.Truck -Truck 4 starts unloading
+2021-01-24 01:33:33 [3] INFO  jwd.thread.entity.Truck -Truck 3 starts unloading
+2021-01-24 01:33:36 [4] INFO  jwd.thread.entity.Truck -Truck 4 finished unloading
+2021-01-24 01:33:36 [3] INFO  jwd.thread.entity.Truck -Truck 3 finished unloading
+2021-01-24 01:33:36 [4] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:33:36 [3] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:33:37 [1] INFO  jwd.thread.entity.Stock -Truck 1 occupies Terminal 1
+2021-01-24 01:33:37 [7] INFO  jwd.thread.entity.Stock -Truck 7 occupies Terminal 2
+2021-01-24 01:33:37 [1] INFO  jwd.thread.entity.Truck -Truck 1 starts unloading
+2021-01-24 01:33:37 [7] INFO  jwd.thread.entity.Truck -Truck 7 starts unloading
+2021-01-24 01:33:40 [7] INFO  jwd.thread.entity.Truck -Truck 7 finished unloading
+2021-01-24 01:33:40 [1] INFO  jwd.thread.entity.Truck -Truck 1 finished unloading
+2021-01-24 01:33:40 [7] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:33:40 [1] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:33:41 [5] INFO  jwd.thread.entity.Stock -Truck 5 occupies Terminal 1
+2021-01-24 01:33:41 [6] INFO  jwd.thread.entity.Stock -Truck 6 occupies Terminal 2
+2021-01-24 01:33:41 [5] INFO  jwd.thread.entity.Truck -Truck 5 starts unloading
+2021-01-24 01:33:41 [6] INFO  jwd.thread.entity.Truck -Truck 6 starts unloading
+2021-01-24 01:33:44 [5] INFO  jwd.thread.entity.Truck -Truck 5 finished unloading
+2021-01-24 01:33:44 [6] INFO  jwd.thread.entity.Truck -Truck 6 finished unloading
+2021-01-24 01:33:44 [5] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:33:44 [6] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:33:45 [9] INFO  jwd.thread.entity.Stock -Truck 9 occupies Terminal 1
+2021-01-24 01:33:45 [9] INFO  jwd.thread.entity.Truck -Truck 9 starts unloading
+2021-01-24 01:33:48 [9] INFO  jwd.thread.entity.Truck -Truck 9 finished unloading
+2021-01-24 01:33:48 [9] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:33:57 [main] ERROR jwd.thread.reader.TextReader -invalid path input
+2021-01-24 01:33:57 [5] INFO  jwd.thread.entity.Stock -Truck 5 occupies Terminal 2
+2021-01-24 01:33:57 [1] INFO  jwd.thread.entity.Stock -Truck 1 occupies Terminal 1
+2021-01-24 01:33:57 [1] INFO  jwd.thread.entity.Truck -Truck 1 starts unloading
+2021-01-24 01:33:57 [5] INFO  jwd.thread.entity.Truck -Truck 5 starts unloading
+2021-01-24 01:34:00 [1] INFO  jwd.thread.entity.Truck -Truck 1 finished unloading
+2021-01-24 01:34:00 [5] INFO  jwd.thread.entity.Truck -Truck 5 finished unloading
+2021-01-24 01:34:00 [5] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:34:00 [1] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:34:01 [4] INFO  jwd.thread.entity.Stock -Truck 4 occupies Terminal 1
+2021-01-24 01:34:01 [9] INFO  jwd.thread.entity.Stock -Truck 9 occupies Terminal 2
+2021-01-24 01:34:01 [4] INFO  jwd.thread.entity.Truck -Truck 4 starts unloading
+2021-01-24 01:34:01 [9] INFO  jwd.thread.entity.Truck -Truck 9 starts unloading
+2021-01-24 01:34:04 [9] INFO  jwd.thread.entity.Truck -Truck 9 finished unloading
+2021-01-24 01:34:04 [4] INFO  jwd.thread.entity.Truck -Truck 4 finished unloading
+2021-01-24 01:34:04 [9] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:34:04 [4] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:34:05 [6] INFO  jwd.thread.entity.Stock -Truck 6 occupies Terminal 1
+2021-01-24 01:34:05 [2] INFO  jwd.thread.entity.Stock -Truck 2 occupies Terminal 2
+2021-01-24 01:34:05 [6] INFO  jwd.thread.entity.Truck -Truck 6 starts unloading
+2021-01-24 01:34:05 [2] INFO  jwd.thread.entity.Truck -Truck 2 starts unloading
+2021-01-24 01:34:08 [6] INFO  jwd.thread.entity.Truck -Truck 6 finished unloading
+2021-01-24 01:34:08 [2] INFO  jwd.thread.entity.Truck -Truck 2 finished unloading
+2021-01-24 01:34:08 [6] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:34:08 [2] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:34:09 [7] INFO  jwd.thread.entity.Stock -Truck 7 occupies Terminal 1
+2021-01-24 01:34:09 [3] INFO  jwd.thread.entity.Stock -Truck 3 occupies Terminal 2
+2021-01-24 01:34:09 [7] INFO  jwd.thread.entity.Truck -Truck 7 starts unloading
+2021-01-24 01:34:09 [3] INFO  jwd.thread.entity.Truck -Truck 3 starts unloading
+2021-01-24 01:34:12 [3] INFO  jwd.thread.entity.Truck -Truck 3 finished unloading
+2021-01-24 01:34:12 [7] INFO  jwd.thread.entity.Truck -Truck 7 finished unloading
+2021-01-24 01:34:12 [7] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:34:12 [3] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:34:13 [8] INFO  jwd.thread.entity.Stock -Truck 8 occupies Terminal 1
+2021-01-24 01:34:13 [8] INFO  jwd.thread.entity.Truck -Truck 8 starts unloading
+2021-01-24 01:34:16 [8] INFO  jwd.thread.entity.Truck -Truck 8 finished unloading
+2021-01-24 01:34:16 [8] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:36:26 [main] ERROR jwd.thread.reader.TextReader -invalid path input
+2021-01-24 01:36:26 [5] INFO  jwd.thread.entity.Stock -Truck 5 occupies Terminal 2
+2021-01-24 01:36:26 [9] INFO  jwd.thread.entity.Stock -Truck 9 occupies Terminal 1
+2021-01-24 01:36:26 [9] INFO  jwd.thread.entity.Truck -Truck 9 starts unloading
+2021-01-24 01:36:26 [5] INFO  jwd.thread.entity.Truck -Truck 5 starts unloading
+2021-01-24 01:36:29 [9] INFO  jwd.thread.entity.Truck -Truck 9 finished unloading
+2021-01-24 01:36:29 [5] INFO  jwd.thread.entity.Truck -Truck 5 finished unloading
+2021-01-24 01:36:29 [5] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:36:29 [9] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:36:30 [1] INFO  jwd.thread.entity.Stock -Truck 1 occupies Terminal 1
+2021-01-24 01:36:30 [7] INFO  jwd.thread.entity.Stock -Truck 7 occupies Terminal 2
+2021-01-24 01:36:30 [1] INFO  jwd.thread.entity.Truck -Truck 1 starts unloading
+2021-01-24 01:36:30 [7] INFO  jwd.thread.entity.Truck -Truck 7 starts unloading
+2021-01-24 01:36:33 [7] INFO  jwd.thread.entity.Truck -Truck 7 finished unloading
+2021-01-24 01:36:33 [1] INFO  jwd.thread.entity.Truck -Truck 1 finished unloading
+2021-01-24 01:36:33 [7] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:36:33 [1] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:36:34 [4] INFO  jwd.thread.entity.Stock -Truck 4 occupies Terminal 1
+2021-01-24 01:36:34 [2] INFO  jwd.thread.entity.Stock -Truck 2 occupies Terminal 2
+2021-01-24 01:36:34 [4] INFO  jwd.thread.entity.Truck -Truck 4 starts unloading
+2021-01-24 01:36:34 [2] INFO  jwd.thread.entity.Truck -Truck 2 starts unloading
+2021-01-24 01:36:37 [4] INFO  jwd.thread.entity.Truck -Truck 4 finished unloading
+2021-01-24 01:36:37 [2] INFO  jwd.thread.entity.Truck -Truck 2 finished unloading
+2021-01-24 01:36:37 [4] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:36:37 [2] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:36:38 [8] INFO  jwd.thread.entity.Stock -Truck 8 occupies Terminal 2
+2021-01-24 01:36:38 [3] INFO  jwd.thread.entity.Stock -Truck 3 occupies Terminal 1
+2021-01-24 01:36:38 [3] INFO  jwd.thread.entity.Truck -Truck 3 starts unloading
+2021-01-24 01:36:38 [8] INFO  jwd.thread.entity.Truck -Truck 8 starts unloading
+2021-01-24 01:36:41 [8] INFO  jwd.thread.entity.Truck -Truck 8 finished unloading
+2021-01-24 01:36:41 [3] INFO  jwd.thread.entity.Truck -Truck 3 finished unloading
+2021-01-24 01:36:41 [8] INFO  jwd.thread.entity.Stock -Terminal 2 is ready to serve next truck
+2021-01-24 01:36:41 [3] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
+2021-01-24 01:36:42 [6] INFO  jwd.thread.entity.Stock -Truck 6 occupies Terminal 1
+2021-01-24 01:36:42 [6] INFO  jwd.thread.entity.Truck -Truck 6 starts unloading
+2021-01-24 01:36:45 [6] INFO  jwd.thread.entity.Truck -Truck 6 finished unloading
+2021-01-24 01:36:45 [6] INFO  jwd.thread.entity.Stock -Terminal 1 is ready to serve next truck
