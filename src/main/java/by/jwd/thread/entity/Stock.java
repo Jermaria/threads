@@ -18,7 +18,7 @@ public class Stock {
     private static Lock lock = new ReentrantLock();
     private static Lock lock1 = new ReentrantLock();
     
-    private static Stock instance = new Stock();
+    private static final Stock instance = new Stock();
     private static AtomicBoolean isInitialized = new AtomicBoolean();
     private static final int DEFAULT_TERMINAL_QUANTITY = 2;
     private Set<Terminal> terminals;
